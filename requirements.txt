@@ -1,7 +1,6 @@
-scikit-learn
-streamlit
+scikit-learn>=1.2
+streamlit>=1.50
 numpy
-openpyxl
 pandas
 seaborn
 joblib
